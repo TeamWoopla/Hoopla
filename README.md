@@ -1,3 +1,3 @@
 Our team's first ever game... dont be too brutal... 
-Added all of the "src" folder and the required files to run the program, 
+Added all of the "src" folder and the required files to run the program, Save file needs to be OUT of the src directory, one level behind it.
 of course if you have any improvements or recommendations for us we will more than love to hear your comments.
