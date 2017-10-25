@@ -1,1 +1,3 @@
-
+Our team's first ever game... dont be too brutal... 
+Added all of the "src" folder and the required files to run the program, first time you run the program it will automatically create a .Save file.
+of course if you have any improvements or recommendations for us we will more than love to hear your comments.
